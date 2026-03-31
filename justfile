@@ -35,7 +35,7 @@ test *args:
 
 # Run tests with coverage
 coverage:
-    uv run pytest --cov=project_name --cov-report=term-missing
+    uv run pytest --cov=test_ml_v2 --cov-report=term-missing
 
 # Launch Jupyter notebook server
 notebook:
@@ -75,7 +75,7 @@ release bump:
 
 # Build GPU Docker image
 docker-build-gpu:
-    docker build -f Dockerfile.gpu -t project-name-gpu .
+    docker build -f Dockerfile.gpu -t test-ml-v2-gpu .
 
 # Initialize DVC (run once)
 dvc-init:

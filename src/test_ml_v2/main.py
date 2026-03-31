@@ -1,4 +1,4 @@
-"""Entry point for project-name."""
+"""Entry point for test-ml-v2."""
 
 
 def main() -> None:
@@ -7,7 +7,7 @@ def main() -> None:
     This is the CLI entry point configured in ``pyproject.toml``
     under ``[project.scripts]``.
     """
-    print("Hello from project-name!")
+    print("Hello from test-ml-v2!")
 
 
 if __name__ == "__main__":

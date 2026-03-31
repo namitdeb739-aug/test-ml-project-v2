@@ -8,12 +8,12 @@
 
 ## Creating a new project
 
-1. Click **"Use this template"** on the [GitHub repo](https://github.com/your-username/your-repo)
+1. Click **"Use this template"** on the [GitHub repo](https://github.com/namitdeb739-aug/test-ml-v2)
 2. Clone your new repo and run the interactive setup:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/namitdeb739-aug/test-ml-v2.git
+cd test-ml-v2
 just init
 ```
 

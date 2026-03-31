@@ -1,7 +1,7 @@
-site_name: project-name
-site_description: A short description of your project
-repo_url: https://github.com/your-username/your-repo
-repo_name: your-username/your-repo
+site_name: test-ml-v2
+site_description: Retest of template init fix
+repo_url: https://github.com/namitdeb739-aug/test-ml-v2
+repo_name: namitdeb739-aug/test-ml-v2
 
 theme:
   name: material
