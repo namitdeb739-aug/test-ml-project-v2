@@ -527,3 +527,4 @@ just init
 ## License
 
 [MIT](LICENSE)
+# Standards test
